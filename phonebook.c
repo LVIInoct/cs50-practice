@@ -12,10 +12,10 @@ int main (void)
 {
 	person people[3]; // making amount of spaces for each identity
 	people[0].name = "Hi"; // access name
-	people[0].number = "6776767676767";
+	people[0].number = "10000000";
 
-	people[1].name = "six seven kid";
-	people[1].number = "989899";
+	people[1].name = "Hello";
+	people[1].number = "999999";
 
 	string name = get_string ("Name:"); // string that takes a name the user types. (variable is 'name')
 
